@@ -1,0 +1,9 @@
+{
+  "name": "hon-van-viet-dynamic-site",
+  "version": "1.0.0",
+  "description": "Website động cho Hồn Văn Việt",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
